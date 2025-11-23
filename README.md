@@ -1,6 +1,10 @@
 # yash.demo
-this is demo page 
-</br>
-i am starting github 
-</br>
+<p>
+this is demo page
+</p>
+<p>
+i am starting github
+</p>
+<p>
 i am new user of github
+</p>
